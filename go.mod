@@ -1,4 +1,4 @@
-module americano.com/demo
+module github.com/AmericanoIcetea/go-demo
 
 go 1.16
 
